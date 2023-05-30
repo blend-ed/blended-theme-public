@@ -1,3 +1,5 @@
+$primary: #009cc7;
+
 $blue: #009cc7 !default;
 $dark-blue: #112375 !default;
 $indigo: #656565 !default;
@@ -9,9 +11,9 @@ $magenta: #9a1f60 !default;
 $program-prof-cert: #a736ee;
 
 // Theme fonts
-$font-family-title: Inter;
+$font-family-title: Plex;
 $serif: Crimson;
-$f-sans-serif: 'Inter', 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+$f-sans-serif: Crimson, 'Open Sans','Helvetica Neue', Helvetica, Arial, sans-serif;
 
 // Initialize the Open edX Bootstrap theme
 @import "edx-bootstrap/sass/open-edx/theme";
